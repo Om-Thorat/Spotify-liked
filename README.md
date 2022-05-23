@@ -7,4 +7,4 @@ Change the XXXXXXXXXXXXXXXXXX in code with Spotify client id and Client Secret y
 Click on settings for the spotify developer app you created then add http://localhost:8080/callback in redirect uri.
 Just run the .py and you are ready to go.
 
-#Thanks
+# Thanks
