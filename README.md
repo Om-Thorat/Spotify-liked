@@ -10,4 +10,4 @@ Visit http://127.0.0.1:8080 in your browser click on login to spotify Authorize 
 
 # Thanks
 
-<a href="https://notom.deta.dev/spotify" target="_blank">![](https://notom.deta.dev/spotify?damnit)</a>
+<a href="https://notom.deta.dev/spotify" target="_blank">![](https://notom.deta.dev/spotify?ih)</a>
